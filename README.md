@@ -2,7 +2,7 @@
 Enhance programming productivity
 
 ## AppCode
-* delegatetable
+* delegate_table
 ```Swift
 extension : UITableViewDelegate, UITableViewDataSource {
   public func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
